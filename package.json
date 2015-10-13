@@ -7,6 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "bunyan": "^1.5.1",
     "ejs": "2.3.3",
     "express": "4.13.3",
     "opbeat": "^1.6.0"
