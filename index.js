@@ -28,4 +28,4 @@ app.listen(app.get('port'), function() {
 });
 
 log.info('Server start on port %d', app.get('port'));
-opbeat.captureError('Something happened but its ok!');
+opbeat.captureError('Test Oh My Phone');
